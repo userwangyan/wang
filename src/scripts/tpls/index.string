@@ -1,0 +1,118 @@
+ <div class="m-container">
+ 	<header class="header">
+ 		<i class="yo-ico">&#xe735;</i>
+ 		<h1 id="title">全部订单</h1>
+ 	</header>
+ 	<form>
+ 		<i class="yo-ico">&#xe65c;</i><input type="text" placeholder="商品名称/商品编号/订单号"><span>X</span>
+ 	</form>
+ 	<div class="m-wrapper">
+ 		<nav id="nav">
+ 			<ul>
+ 				<li class="active">全部</li>
+ 				<li>待付款</li>
+ 				<li>待检测</li>
+ 				<li>待收货</li>
+ 				<li>待评价</li>
+ 			</ul>
+ 		</nav>
+ 		<div class="swiper-container">
+		  <div class="swiper-wrapper">
+		    <div class="swiper-slide">
+		    	<div class="m-min">
+		    		<p class="money1">待支付</p>
+		    		<dl class="m-dla"><!--89   64 -->
+		    			<dt><img src="images/1.jpg"></dt>
+		    			<dd>
+		    				<h3><i>民用建筑室内环境验收</i><b>￥900.00</b></h3>
+		    				<span>￥900.00</span>
+		    				<span>x1</span>
+		    			</dd>
+		    		</dl>
+		    		<p class="sum">共1件商品  合计： ￥ 900.00 (含运费￥10.00)</p>
+		    		<p class="but"><button>查看订单</button><button class="m-qx">取消订单</button><button class="m-qr">确认付款</button></p>
+		    	</div>
+		    	<div class="m-min">
+		    		<p class="money1">待支付</p>
+		    		<dl class="m-dla"><!--89   64 -->
+		    			<dt><img src="images/1.jpg"></dt>
+		    			<dd>
+		    				<h3><i>民用建筑室内环境验收</i><b>￥900.00</b></h3>
+		    				<span>￥900.00</span>
+		    				<span>x1</span>
+		    			</dd>
+		    		</dl>
+		    		<p class="sum">共1件商品  合计： ￥ 900.00 (含运费￥10.00)</p>
+		    		<p class="but"><button>查看订单</button><button class="m-qx">取消订单</button><button class="m-qr">确认付款</button></p>
+		    	</div>
+		    </div>
+		    <div class="swiper-slide">
+		    	<div class="m-min">
+		    		<p class="money1">待支付</p>
+		    		<dl class="m-dla"><!--89   64 -->
+		    			<dt><img src="images/1.jpg"></dt>
+		    			<dd>
+		    				<h3><i>民用建筑室内环境验收</i><b>￥900.00</b></h3>
+		    				<span>￥900.00</span>
+		    				<span>x1</span>
+		    			</dd>
+		    		</dl>
+		    		<p class="sum">共1件商品  合计： ￥ 900.00 (含运费￥10.00)</p>
+		    		<p class="but"><button>查看订单</button><button class="m-qx">取消订单</button><button class="m-qr">确认付款</button></p>
+		    	</div>
+		    	<div class="m-min">
+		    		<p class="money1">待支付</p>
+		    		<dl class="m-dla"><!--89   64 -->
+		    			<dt><img src="images/1.jpg"></dt>
+		    			<dd>
+		    				<h3><i>民用建筑室内环境验收</i><b>￥900.00</b></h3>
+		    				<span>￥900.00</span>
+		    				<span>x1</span>
+		    			</dd>
+		    		</dl>
+		    		<p class="sum">共1件商品  合计： ￥ 900.00 (含运费￥10.00)</p>
+		    		<p class="but"><button>查看订单</button><button class="m-qx">取消订单</button><button class="m-qr">确认付款</button></p>
+		    	</div>
+		    </div>
+		    <div class="swiper-slide">待检测</div>
+		    <div class="swiper-slide">
+		        <div class="m-min">
+		    		<p class="money1">待支付</p>
+		    		<dl class="m-dla"><!--89   64 -->
+		    			<dt><img src="images/1.jpg"></dt>
+		    			<dd>
+		    				<h3><i>民用建筑室内环境验收</i><b>￥900.00</b></h3>
+		    				<span>￥900.00</span>
+		    				<span>x1</span>
+		    			</dd>
+		    		</dl>
+		    		<p class="sum">共1件商品  合计： ￥ 900.00 (含运费￥10.00)</p>
+		    		<p class="but"><button>查看订单</button><button class="m-qx">取消订单</button><button class="m-qr">确认付款</button></p>
+		    	</div>
+		    	<div class="m-min">
+		    		<p class="money1">待支付</p>
+		    		<dl class="m-dla"><!--89   64 -->
+		    			<dt><img src="images/1.jpg"></dt>
+		    			<dd>
+		    				<h3><i>民用建筑室内环境验收</i><b>￥900.00</b></h3>
+		    				<span>￥900.00</span>
+		    				<span>x1</span>
+		    			</dd>
+		    		</dl>
+		    		<p class="sum">共1件商品  合计： ￥ 900.00 (含运费￥10.00)</p>
+		    		<p class="but"><button>查看订单</button><button class="m-qx">取消订单</button><button class="m-qr">确认付款</button></p>
+		    	</div>
+		    </div>
+		    <div class="swiper-slide">待评价</div>
+		  </div>
+		</div>
+ 	</div>
+ 	<div class="mark" id="mark">
+ 	    <div class="dialogs">
+ 	        <i>X</i>
+ 	    	<h5>确认收货</h5>
+ 	    	<span>我们将收到货款，欢迎下次合作</span>
+ 	    	<p><b class="p-bg p-qr">发表评价</b><b class="p-qx">订单详情</b></p>
+ 	    </div>
+ 	</div>
+ </div>
